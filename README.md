@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Riya Gupta
 
-<!--
-**RR1Gupta/RR1Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Aspiring Software Developer  
+🌱 Curious learner exploring multiple programming languages and technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
+- C++
+- Java
+- Python 
+- Problem Solving
+- Programming Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 What I Work On
+- Programs in different programming languages
+- Logic-building and practice problems
+- Mini projects and console-based applications
+
+## 🚀 Currently Learning
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Clean coding practices
+
+## 🔗 Profiles
+- GitHub: https://github.com/RR1Gupta
+- HackerRank: https://www.hackerrank.com/profile/riyag09871
